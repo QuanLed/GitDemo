@@ -24,3 +24,7 @@ var tong2So = function (a, b) {
   console.log(a + b);
 };
 tong2So(3, 8);
+
+
+
+// Stash lan 4
