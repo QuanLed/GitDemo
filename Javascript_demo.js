@@ -25,6 +25,5 @@ var tong2So = function (a, b) {
 };
 tong2So(3, 8);
 
-
-
 // Stash lan 4
+// thong tin branch Demo 2
