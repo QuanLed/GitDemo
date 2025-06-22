@@ -25,5 +25,4 @@ var tong2So = function (a, b) {
 };
 tong2So(3, 8);
 
-
 // them thong tin cho Demo 1
